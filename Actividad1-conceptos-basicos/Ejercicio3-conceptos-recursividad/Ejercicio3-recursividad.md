@@ -1,1 +1,1 @@
-![Alt text](../Ejercicio3-recursividad/recursividad.png)
+![Alt text](../Ejercicio3-conceptos-recursividad/recursividad.png)
