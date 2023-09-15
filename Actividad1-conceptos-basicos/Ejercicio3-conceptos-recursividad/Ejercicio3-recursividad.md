@@ -1,1 +1,1 @@
-![Alt text](../Ejercicio2-diferencias/diferencias.png)
+![Alt text](../Ejercicio3-recursividad/recursividad.png)
