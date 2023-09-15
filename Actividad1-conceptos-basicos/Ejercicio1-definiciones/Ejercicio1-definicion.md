@@ -1,1 +1,1 @@
-![Definicion](C:\Users\ivela\OneDrive\Escritorio\Actividad1-conceptos-basicos\Ejercicio1-definiciones\tipos.png)
+![Alt text](../Ejercicio1-definiciones/tipos.png)
