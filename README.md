@@ -1,2 +1,0 @@
-sfsfbsfbsf
-IguanaBanana/estructuradedatos/Actividad2-recursividad
