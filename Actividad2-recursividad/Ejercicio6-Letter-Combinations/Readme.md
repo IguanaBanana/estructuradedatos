@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio6-Letter-Combinations/Letter-Combinations.png)

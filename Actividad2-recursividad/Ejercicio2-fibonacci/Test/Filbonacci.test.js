@@ -1,24 +1,25 @@
-import { factorial } from '../Factorial'
+// fibonacci.test.js
 
-describe('Suite de pruebas de la funcion Factorial() usando recursividad', () => {
+const fibonacci = require('../Fibonacci');
 
-  beforeAll(() => {
-    console.info('Autor: Hecho por Ivanna Gomez');
-  })
+test('Fibonacci de 0 es 0', () => {
+  expect(fibonacci(0)).toBe(0);
+});
 
-  it('Test 1 - debe devolver el factorial 1 para el valor "0"', () => {
-    expect(factorial(0)).toBe(1)
-  })
+test('Fibonacci de 1 es 1', () => {
+  expect(fibonacci(1)).toBe(1);
+});
 
-  it('Test 2 - debe retornar 120, enviando el parametro con el valor de "5"', () => {
-    expect(factorial(5)).toBe(120)
-  })
+test('Fibonacci de 2 es 1', () => {
+  expect(fibonacci(2)).toBe(1);
+});
 
-  it('Test 3 - Lanzar error por entrada no válida', () => {
-    expect(() => factorial('-')).toThrow('No es un Entero')
-    expect(() => factorial(null)).toThrow('No es un Entero')
-    expect(() => factorial(undefined)).toThrow('No es un Entero')
-    expect(() => factorial(3.142)).toThrow('No es un Entero')
-    expect(() => factorial(-1)).toThrow('No es un Numero Positivo')
-  })
-})
+test('Fibonacci de 6 es 8', () => {
+  expect(fibonacci(6)).toBe(8);
+});
+
+test('Fibonacci de 10 es 55', () => {
+  expect(fibonacci(10)).toBe(55);
+});
+
+

@@ -6,20 +6,13 @@
  * @see [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)
  */
 
-const fibonacci = (n) => {
-    if (!Number.isInteger(n)) {
-      throw new RangeError('No es un Entero')
-    }
-  
-    if (n < 0) {
-      throw new RangeError('No es un Numero Positivo')
-    }
-  
-    if (n === 0) {
-      return 1
-    }
-    return n * factorial(n - 1)
+function fibonacci(n) {
+  if (n <= 1) {
+    return n;
+  } else {
+    return fibonacci(n - 1) + fibonacci(n - 2);
   }
-  
-  export { factorial }
+}
+
+module.exports = fibonacci;
   
