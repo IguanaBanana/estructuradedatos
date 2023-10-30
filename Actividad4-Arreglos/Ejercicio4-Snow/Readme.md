@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio4-Snow/Snow.jpeg)

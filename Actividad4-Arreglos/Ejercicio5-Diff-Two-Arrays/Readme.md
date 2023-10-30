@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio5-Diff-Two-Arrays/Diff-Two-Arrays.jpeg)

@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio1-Calificaciones/Calificaciones.jpeg)
