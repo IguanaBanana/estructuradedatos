@@ -1,0 +1,1 @@
+![Alt text](../​Ejercicio5-lista-inversa/lista-inversa.png)
