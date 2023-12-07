@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio2-arbol-binario-busqueda/arbol-binario-busqueda.png)

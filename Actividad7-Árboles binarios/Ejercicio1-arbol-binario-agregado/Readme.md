@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio1-arbol-binario-agregado/arbol-binario-agregado.png)
