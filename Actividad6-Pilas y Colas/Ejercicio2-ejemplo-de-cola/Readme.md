@@ -1,0 +1,1 @@
+![Alt text](../Ejercicio2-ejemplo-de-cola/Ejemplo-de-cola.png)
